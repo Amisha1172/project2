@@ -35,7 +35,7 @@ li{
 }
 .first-heading{
     text-align: center;
-    color: lightblue;
+    color: rgb(28, 163, 208);
 }
 .img2{
     height: 400px;
@@ -46,10 +46,30 @@ li{
 .second {
     display: flex;
     /* height: 50vh; */
+    gap: 20px;
+    align-items: center;
 }
 .paragraph-section{
-    color: lightblue;
-    /* text-align: center; */
+    color: rgb(23, 168, 216);
+    font-size: 1.5rem;
+}
+.third{
+    display: flex;
+    background-color:#329BD5;
+    height: 80vh;
+    width: 100vw;
+    align-items: center;
+}
+.anima-section{
+    height: 70vh;
+    width: 70vw;
+    /* padding-left: 10px; */
+    /* padding-top: 80px; */
+    /* bottom-top: 40px; */
+}
+.animation-sec2{
+    height: 400px;
+    display: flex;
 }
 
 
